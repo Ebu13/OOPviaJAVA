@@ -1,0 +1,3 @@
+interface Agirlik {
+    void agirlikGoster();
+}

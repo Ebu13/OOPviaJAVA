@@ -1,0 +1,3 @@
+interface Boyut {
+    void boyutGoster();
+}
