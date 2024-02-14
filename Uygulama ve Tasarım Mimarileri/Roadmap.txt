@@ -1,0 +1,10 @@
+10. **Uygulama ve Tasarım Örüntüleri**:
+    - Fabrika (Factory)
+    - Tekilton (Singleton)
+    - Prototip (Prototype)
+    - Gözlemci (Observer)
+    - Strateji (Strategy)
+    - Durum (State)
+    - Ziyaretçi (Visitor)
+    - MVC (Model-View-Controller)
+    - MVVM (Model-View-ViewModel)

@@ -1,9 +1,3 @@
-9. **Nesne Yönelimli Analiz ve Tasarım (OOAD)**:
-   - Gereksinim analizi
-   - Nesne modelleri (Class diagrams)
-   - Davranış modelleri (Behavioral diagrams)
-   - Yapısal modeller (Structural diagrams)
-
 10. **Uygulama ve Tasarım Örüntüleri**:
     - Fabrika (Factory)
     - Tekilton (Singleton)
