@@ -1,8 +1,11 @@
 
-
 public class Main {
     public static void main(String[] args) {
-        System.out.println(Ucgen.alanhesapla(3,4,5));
-        System.out.println(Dikdortgen.alanhesapla(4,5));
+        Sekil sekil1 = new Daire();
+        Sekil sekil2 = new Kare();
+
+        sekil1.ciz();
+        sekil2.ciz();
+        //(Late binding) bir nesnenin hangi metotunun çağrılacağının çalışma zamanında belirlenmesini ifade eder.
     }
 }
